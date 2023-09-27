@@ -1,4 +1,18 @@
+body{
+    background-color: lightslategray;
+}
 h1{
     font-style: italic;
     text-align: center;
+}
+.SlideShow-container{
+    position: relative;
+}
+.SlideShow{
+    display: none;
+}
+.text{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
 }
